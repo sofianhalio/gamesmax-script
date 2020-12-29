@@ -1,2 +1,2 @@
-# gamesmax-script
+# gamesmax
 Ubah kuota game
